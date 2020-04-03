@@ -7,4 +7,4 @@ console.log(arr);
 
 function compareNumber(a,b){
     return a-b;
-}
+} 

@@ -2,4 +2,4 @@ let s = "When I find myself in times of trouble Mother Mary comes to me Speaking
 let st = s.split(" ");
 
     for(let i=0;i<st.length;i++)
-        console.log(st[i]);
+        console.log(st[i]); 
