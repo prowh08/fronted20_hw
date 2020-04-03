@@ -4,4 +4,4 @@ for(let i=1;i<=55;i++){
         sum+=i;
     }
 }
-console.log(sum);
+console.log(sum);  
